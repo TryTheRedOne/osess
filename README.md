@@ -29,7 +29,6 @@ trouvera pas la base. Arrêtez le client Ollama, puis copiez manuellement
 ```bash
 git clone https://github.com/TryTheRedOne/ollama_export.git
 cd ollama_export
-chmod +x osess.py   # optionnel (Linux/macOS)
 ```
 
 ## Utilisation
