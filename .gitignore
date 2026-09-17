@@ -1,0 +1,10 @@
+db.sqlite
+db.sqlite-wal
+db.sqlite-shm
+
+# exports générés par osess.py — tout .md sauf README
+*.md
+!README.md
+
+# LICENSE est sans extension .md — toujours conservé
+!LICENSE
